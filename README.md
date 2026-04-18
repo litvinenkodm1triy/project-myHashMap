@@ -1,1 +1,1 @@
-# project-myHashMap
+Собственная реализация HashMap на Java
